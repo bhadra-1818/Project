@@ -1,0 +1,3 @@
+app:
+  environment: production
+  service-message: Payment Service running in PROD

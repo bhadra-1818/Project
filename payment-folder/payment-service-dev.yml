@@ -1,0 +1,3 @@
+app:
+  environment: development
+  service-message: Payment Service running in DEV

@@ -1,0 +1,3 @@
+app:
+  environment: qas
+  service-message: Payment Service running in QAS

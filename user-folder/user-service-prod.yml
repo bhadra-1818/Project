@@ -1,0 +1,3 @@
+app:
+  environment: production
+  service-message: User Service running in PROD
